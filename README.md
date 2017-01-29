@@ -1,4 +1,5 @@
 # VideoPreview
+Generate image previews with Java, FFMPEG & JQuery
 
 This is a Java wrapper for the article:
 https://www.binpress.com/tutorial/how-to-generate-video-previews-with-ffmpeg/138
