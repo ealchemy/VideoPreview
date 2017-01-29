@@ -19,7 +19,7 @@ public class VideoPreviewGenerator {
 
     public static void main(String[] args) {
         VideoPreviewGenerator gen = new VideoPreviewGenerator();
-        gen.generatateImagePreview(new File ("//Users/kirk/Movies/Carol Chang(CAL) - 2013 BB.mp4"));
+        gen.generatateImagePreview(new File ("test.mp4"));
 
     }
 
